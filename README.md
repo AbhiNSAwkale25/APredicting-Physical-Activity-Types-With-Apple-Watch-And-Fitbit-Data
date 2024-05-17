@@ -1,1 +1,1 @@
-# APredicting-Physical-Activity-Types-With-Apple-Watch-And-Fitbit-Data
+# Predicting-Physical-Activity-Types-With-Apple-Watch-And-Fitbit-Data
